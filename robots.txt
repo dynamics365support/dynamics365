@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-# Replace SITE-URL with your final GitHub Pages/custom-domain URL.
-Sitemap: https://SITE-URL/sitemap.xml
+
+Sitemap: https://dynamics365support.github.io/dynamics365/sitemap.xml
