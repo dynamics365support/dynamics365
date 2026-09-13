@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace SITE-URL with your final GitHub Pages/custom-domain URL.
+Sitemap: https://SITE-URL/sitemap.xml
